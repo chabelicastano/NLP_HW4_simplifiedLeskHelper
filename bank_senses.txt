@@ -1,0 +1,18 @@
+S: (n) bank (sloping land (especially the slope beside a body of water)) "they pulled the canoe up on the bank"; "he sat on the bank of the river and watched the currents"
+S: (n) depository financial institution, bank, banking concern, banking company (a financial institution that accepts deposits and channels the money into lending activities) "he cashed a check at the bank"; "that bank holds the mortgage on my home"
+S: (n) bank (a long ridge or pile) "a huge bank of earth"
+S: (n) bank (an arrangement of similar objects in a row or in tiers) "he operated a bank of switches"
+S: (n) bank (a supply or stock held in reserve for future use (especially in emergencies))
+S: (n) bank (the funds held by a gambling house or the dealer in some gambling games) "he tried to break the bank at Monte Carlo"
+S: (n) bank, cant, camber (a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force)
+S: (n) savings bank, coin bank, money box, bank (a container (usually with a slot in the top) for keeping money at home) "the coin bank was empty"
+S: (n) bank, bank building (a building in which the business of banking transacted) "the bank is on the corner of Nassau and Witherspoon"
+S: (n) bank (a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)) "the plane went into a steep bank"
+S: (v) bank (tip laterally) "the pilot had to bank the aircraft"
+S: (v) bank (enclose with a bank) "bank roads"
+S: (v) bank (do business with a bank or keep an account at a bank) "Where do you bank in this town?"
+S: (v) bank (act as the banker in a game or in gambling)
+S: (v) bank (be in the banking business)
+S: (v) deposit, bank (put into a bank account) "She deposits her paycheck every month"
+S: (v) bank (cover with ashes so to control the rate of burning) "bank a fire"
+S: (v) count, bet, depend, swear, rely, bank, look, calculate, reckon (have faith or confidence in) "you can count on me to help you any time"; "Look to your friends for support"; "You can bet on that!"; "Depend on your family in times of crisis"
