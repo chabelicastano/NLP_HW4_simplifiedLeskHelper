@@ -5,12 +5,12 @@
 sentence = ['got', 'money', 'bank']
 
 # change the word depending in what senses you need
-word = 'got'
+word = 'bank'
 
 sense = ''
 
 # characters to be deleted from the senses - to make search for overlapping easier
-del_chars = ['(v)', '(', ')', '"', 's:']
+del_chars = ['(v)', '(', ')', '"', 's:', ',', ':', ';', '.']
 
 file_name = word + '_senses.txt'
 
@@ -23,8 +23,9 @@ with open(file_name, 'r', encoding='utf8', newline='\n') as file:
         for ch in del_chars:
             sense = sense.replace(ch, "")
         sense = sense.split()
-        for word in sentence:
-            sp_count = sense.count(word)
-            count += sp_count
-        print('{} {} -----> overlap: {}'.format(line_no, line, count))
+        for wd in sentence:
+            sp_count = sense.count(wd)
+            count = count + sp_count
+            # print('{}  --- {}\n'.format(wd, sp_count))
+        print('{} {} -----> overlap: {}\n'.format(line_no, line, count))
         line_no += 1
