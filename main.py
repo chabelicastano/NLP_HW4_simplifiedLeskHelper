@@ -5,7 +5,7 @@
 sentence = ['got', 'money', 'bank']
 
 # change the word depending in what senses you need
-word = 'bank'
+word = 'got'
 
 sense = ''
 
@@ -24,8 +24,9 @@ with open(file_name, 'r', encoding='utf8', newline='\n') as file:
             sense = sense.replace(ch, "")
         sense = sense.split()
         for wd in sentence:
-            sp_count = sense.count(wd)
-            count = count + sp_count
-            # print('{}  --- {}\n'.format(wd, sp_count))
+            if wd != word:
+                sp_count = sense.count(wd)
+                count = count + sp_count
+                # print('{}  --- {}\n'.format(wd, sp_count))
         print('{} {} -----> overlap: {}\n'.format(line_no, line, count))
         line_no += 1
